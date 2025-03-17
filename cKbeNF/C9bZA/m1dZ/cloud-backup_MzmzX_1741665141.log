@@ -10,7 +10,6 @@ This document describes how to develop GoBackup.
 - [Release new version](./docs/release-new-version.md)
 
 ## Run tests
-
 We have a `Makefile` provided some commands:
 
 - `make test` run unit test.
