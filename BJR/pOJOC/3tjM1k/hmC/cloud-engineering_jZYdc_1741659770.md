@@ -5,7 +5,6 @@ This work was done by me as a part of Udacity Data Engineering Nanodegree. When 
 1. You will not cheat on any assignment, projects, or assessments, as applicable, for the Online Courses. For example, giving or receiving unpermitted aid on, or copying or sharing of, another User’s (as defined in the Terms of Use) projects or other class work (or any portion thereof);
 
 2. You will not plagiarize (a form of cheating) the work of others. For example, using another person’s original work (e.g., code, language, formulas, etc.) in your assignments, projects, or assessments. 
-
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
 
 If you are using the code from this repository for project submission you are violating the above terms and you take full responsibilities of it. This repo is just to refer the code and not to use it for your submission on Udacity.
