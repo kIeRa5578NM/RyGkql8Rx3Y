@@ -2,7 +2,6 @@ Project License
 
 This work was done by me as a part of Udacity Data Engineering Nanodegree. When you enroll for Udacity Courses you accept the Udacity Honor Code and below are 2 of the several terms you agree to:
 
-1. You will not cheat on any assignment, projects, or assessments, as applicable, for the Online Courses. For example, giving or receiving unpermitted aid on, or copying or sharing of, another User’s (as defined in the Terms of Use) projects or other class work (or any portion thereof);
 
 2. You will not plagiarize (a form of cheating) the work of others. For example, using another person’s original work (e.g., code, language, formulas, etc.) in your assignments, projects, or assessments. 
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
