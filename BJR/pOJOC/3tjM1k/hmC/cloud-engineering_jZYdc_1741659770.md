@@ -15,7 +15,6 @@ Copyright (c) 2020 Sanchit Kumar
 
 Besides the above notice, the following license applies and this license notice must be included in all works derived from this project.
 
-MIT License
 
 Copyright (c) 2020 Sanchit Kumar
 Permission is hereby granted, free of charge, to any person obtaining a copy
