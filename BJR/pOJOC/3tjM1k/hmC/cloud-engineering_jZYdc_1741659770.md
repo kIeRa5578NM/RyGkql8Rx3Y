@@ -3,7 +3,6 @@ Project License
 This work was done by me as a part of Udacity Data Engineering Nanodegree. When you enroll for Udacity Courses you accept the Udacity Honor Code and below are 2 of the several terms you agree to:
 
 
-2. You will not plagiarize (a form of cheating) the work of others. For example, using another person’s original work (e.g., code, language, formulas, etc.) in your assignments, projects, or assessments. 
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
 
 If you are using the code from this repository for project submission you are violating the above terms and you take full responsibilities of it. This repo is just to refer the code and not to use it for your submission on Udacity.
