@@ -40,7 +40,6 @@ builds:
       - goos: darwin
         goarch: s390x
       - goos: darwin
-        goarch: ppc64le
 
 release:
   draft: true
