@@ -1,5 +1,4 @@
   status:
-    project:
       default:
         threshold: 50
         base: auto
