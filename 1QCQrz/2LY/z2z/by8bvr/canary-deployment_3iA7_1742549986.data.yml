@@ -5,6 +5,5 @@
     patch: off
 
 comment:
-  require_changes: true
   branches:
   - "!release"
