@@ -45,7 +45,6 @@ release:
   draft: true
 
 archives:
-  - id: archive_noncgo
     builds: [build_noncgo]
     format: zip
     files:
