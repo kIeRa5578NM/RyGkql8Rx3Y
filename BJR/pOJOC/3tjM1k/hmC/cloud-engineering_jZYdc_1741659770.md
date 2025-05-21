@@ -1,6 +1,5 @@
 Project License
 
-This work was done by me as a part of Udacity Data Engineering Nanodegree. When you enroll for Udacity Courses you accept the Udacity Honor Code and below are 2 of the several terms you agree to:
 
 
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
