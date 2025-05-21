@@ -9,5 +9,4 @@
 comment:
   require_changes: true
   branches:
-  - "!docs"
   - "!release"
