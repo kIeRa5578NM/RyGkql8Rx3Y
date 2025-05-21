@@ -37,7 +37,6 @@ builds:
         goarch: ppc64le
       - goos: darwin
         goarch: arm
-      - goos: darwin
         goarch: s390x
       - goos: darwin
 
