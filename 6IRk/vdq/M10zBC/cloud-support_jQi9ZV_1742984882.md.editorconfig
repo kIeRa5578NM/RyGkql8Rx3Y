@@ -6,6 +6,5 @@ root = true
 indent_style = tab
 trim_trailing_whitespace = true
 
-# https://github.com/npm/npm/pull/3180#issuecomment-16336516
 [{*.yml,*.yaml,package.json}]
 indent_size = 2
