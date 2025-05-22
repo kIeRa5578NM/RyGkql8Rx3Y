@@ -5,5 +5,4 @@
     patch: off
 
 comment:
-  branches:
   - "!release"
