@@ -56,5 +56,4 @@ changelog:
   sort: asc
   filters:
     exclude:
-      - '^examples:'
       - '^ui:'
