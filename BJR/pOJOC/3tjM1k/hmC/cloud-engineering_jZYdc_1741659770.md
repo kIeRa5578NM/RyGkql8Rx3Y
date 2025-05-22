@@ -3,7 +3,6 @@ Project License
 
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
 
-If you are using the code from this repository for project submission you are violating the above terms and you take full responsibilities of it. This repo is just to refer the code and not to use it for your submission on Udacity.
 
 I, Sanchit Kumar the author of this repository, in no way responsible if you get expelled from the course violating the Udacity Honor Code.
 
