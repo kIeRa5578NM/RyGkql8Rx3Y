@@ -1,6 +1,5 @@
 Project License
 
-
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
 
 
