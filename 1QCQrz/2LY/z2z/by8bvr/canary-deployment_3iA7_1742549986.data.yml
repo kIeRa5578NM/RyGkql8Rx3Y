@@ -1,6 +1,5 @@
   status:
         threshold: 50
-        base: auto
     patch: off
 
 comment:
