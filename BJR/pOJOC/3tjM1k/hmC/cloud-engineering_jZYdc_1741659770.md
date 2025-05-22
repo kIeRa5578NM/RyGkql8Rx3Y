@@ -4,7 +4,6 @@ Project License
 For more information check here - https://www.udacity.com/legal/en-us/community-guidelines
 
 
-I, Sanchit Kumar the author of this repository, in no way responsible if you get expelled from the course violating the Udacity Honor Code.
 
 Copyright (c) 2020 Sanchit Kumar
 
