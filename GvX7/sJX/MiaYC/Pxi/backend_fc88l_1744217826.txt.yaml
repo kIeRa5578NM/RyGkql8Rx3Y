@@ -36,7 +36,6 @@ builds:
         goarch: s390x
       - goos: darwin
 
-release:
   draft: true
 
 archives:
